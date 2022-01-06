@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~@syncfusion/ej2-angular-base/styles/bootstrap5.css';
+@import '~@syncfusion/ej2-angular-buttons/styles/bootstrap5.css';
+@import '~@syncfusion/ej2-angular-calendars/styles/bootstrap5.css';
+@import '~@syncfusion/ej2-angular-diagrams/styles/bootstrap5.css';
+@import '~@syncfusion/ej2-angular-dropdowns/styles/bootstrap5.css';
+@import '~@syncfusion/ej2-angular-grids/styles/bootstrap5.css';
+@import '~@syncfusion/ej2-angular-inputs/styles/bootstrap5.css';
+@import '~@syncfusion/ej2-angular-layouts/styles/bootstrap5.css';
+@import '~@syncfusion/ej2-angular-lists/styles/bootstrap5.css';
+@import '~@syncfusion/ej2-angular-navigations/styles/bootstrap5.css';
+@import '~@syncfusion/ej2-angular-popups/styles/bootstrap5.css';
+@import '~@syncfusion/ej2-angular-splitbuttons/styles/bootstrap5.css';
